@@ -12,7 +12,7 @@ def second_challenge
         patriarch: {},
         hero: {},
         heroine: {},
-        heroine_friends []
+        heroine_friends: []
       }
     }
 
